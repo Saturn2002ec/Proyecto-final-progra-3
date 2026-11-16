@@ -80,7 +80,8 @@ Repositorio: OmniStock
 |   |-- modulo-3 (Carrito de Compras y Transaccionalidad)
 |       |-- ui/carrito/CarritoActivity.java
 
-!(1111)[https://lh3.google.com/u/0/d/1FFo0awGwyPbgPhFOEhx-41sjOc5C9ikP=w1920-h951-iv1?auditContext=forDisplay]
+Conversacion gemini https://share.gemini.google/KhFkntz849Eq
+
 
 |       |-- ui/carrito/CarritoViewModel.java
 |       |-- ui/carrito/CarritoAdapter.java
