@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo_electronico">#E3F2FD</color>
+    <color name="acento_electronico">#1565C0</color>
+    <color name="fondo_ropa">#F3E5F5</color>
+    <color name="acento_ropa">#6A1B9A</color>
+    <color name="fondo_alimento">#E8F5E9</color>
+    <color name="acento_alimento">#2E7D32</color>
+</resources>
